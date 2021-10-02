@@ -31,7 +31,7 @@ void bucketSort(float arr[], int n)
             arr[index++] = b[i][j];
 }
  
-/* Driver program to test above function */
+
 int main()
 {
     float arr[]
